@@ -1,5 +1,11 @@
 # AI-fitness
 🧠 Weak AI Fitness Assistant (Java)
+Warning:
+In mainOne.java:
+- In OrginalTableSign() method, check the path of tablesign.txt carefully before you run, make sure it is right by clicking on the properties of "tablesign.txt" file.
+In Infoclient.java:
+- In tablesign() method, check the path of tablesign.txt carefully before you run, make sure it is right by clicking on the properties of "tablesign.txt" file.
+
 📘 Overview
 
 The Weak AI Fitness Assistant is a Java-based personal fitness tool that simulates intelligent decision-making to help users track, analyze, and improve their health.
