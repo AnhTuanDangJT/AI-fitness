@@ -66,7 +66,7 @@ public class mainOne {
 	public static String[] OrginalTableSign() throws IOException {
 		 ArrayList<String> array = new ArrayList<>();
 		 String line;
-		 BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\Admin\\Downloads\\Java eclipse\\Encrypt\\src\\Clients\\tablesign.txt"));
+		 BufferedReader br = new BufferedReader(new FileReader("tablesign.txt"));
 	        while ((line = br.readLine()) != null) {
 	            array.add(line);
 	        } 
@@ -564,3 +564,4 @@ public class mainOne {
 	
 
 }
+
