@@ -1,6 +1,6 @@
 # AI-fitness
 🧠 Weak AI Fitness Assistant (Java)
-"""
+
 Warning:
 In mainOne.java:
 - In OrginalTableSign() method, check the path of tablesign.txt carefully before you run, make sure it is right by clicking on the properties of "tablesign.txt" file.
